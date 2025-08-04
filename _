@@ -29,7 +29,7 @@ end
 
 -- Executor kontrolü
 if isRonixExploit() then
-    LocalPlayer:Kick("Executorunuz bu scripti desteklemiyor, Delta kullanınız")
+    LocalPlayer:Kick("Your executor does not support this script, please use Delta.")
     return -- Scripti durdur
 end
 
